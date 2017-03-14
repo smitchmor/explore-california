@@ -1,4 +1,4 @@
 tempfile.txt
 *.zip
 *.gz
-
+.DS_Store
